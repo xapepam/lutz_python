@@ -8,4 +8,6 @@ while True:
       webbrowser.open('http://py-algorithm.blogspot.ru/2011/10/blog-post.html')
     if x == 2:
       webbrowser.open('http://ya.ru')
-
+    if x == 0:
+      print ('Goodbye!')
+      break
